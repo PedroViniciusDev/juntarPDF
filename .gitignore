@@ -1,0 +1,18 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Arquivos Python
+__pycache__/
+*.py[cod]
+
+# Arquivos gerados pelo PyInstaller
+build/
+dist/
+*.spec
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivos temporários
+*.log
